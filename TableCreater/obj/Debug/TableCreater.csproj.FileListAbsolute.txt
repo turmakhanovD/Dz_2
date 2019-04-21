@@ -1,0 +1,7 @@
+C:\Users\Адиль\source\repos\TableCreater\TableCreater\bin\Debug\TableCreater.exe.config
+C:\Users\Адиль\source\repos\TableCreater\TableCreater\bin\Debug\TableCreater.exe
+C:\Users\Адиль\source\repos\TableCreater\TableCreater\bin\Debug\TableCreater.pdb
+C:\Users\Адиль\source\repos\TableCreater\TableCreater\obj\Debug\TableCreater.csprojAssemblyReference.cache
+C:\Users\Адиль\source\repos\TableCreater\TableCreater\obj\Debug\TableCreater.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\TableCreater\TableCreater\obj\Debug\TableCreater.exe
+C:\Users\Адиль\source\repos\TableCreater\TableCreater\obj\Debug\TableCreater.pdb
